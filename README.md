@@ -1,6 +1,7 @@
-# Header
-
 ![Avatar](/assets/avatar.png)
+
+## Hi there <img height="20" src="https://icons8.ru/icon/bdQOCmidtEnu/чокаться-кружками-с-пивом">
+My name is Ivan. I am Fullstack Software Engineer. Currenly playing aroung filling this repo.
 <!--
 **mark1ns0n/mark1ns0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
