@@ -1,10 +1,13 @@
-![Avatar](/assets/avatar.png)
+# Hello, I'm Ivan Markin! 👋
 
-## Hi there <img height="20" src="https://img.icons8.com/emoji/512/clinking-beer_mugs.png">
-My name is Ivan. I am Fullstack Software Engineer. Currenly playing aroung filling this repo.
+## About Me
+I'm a fullstack software developer passionate about learning new technologies.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mark1ns0n&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mark1ns0n&show_icons=true&theme=solarized-light)
+- 🌱 I’m currently learning **Flutter**
+- 📫 How to reach me: [mark1ns0n@outlook.com](mailto:mark1ns0n@outlook.com)
+
+## Languages and Tools
+<img src="https://skillicons.dev/icons?i=javascript,react,reactnative,nodejs,postgres,mysql,php,java,docker,aws,mongodb" />
 
 <!--
 **mark1ns0n/mark1ns0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
